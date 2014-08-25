@@ -3,7 +3,7 @@
   "name": "rollbar",
   "repo": "logo/rollbar",
   "description": "The Rollbar logo.",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
