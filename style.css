@@ -1,0 +1,22 @@
+
+/**
+ * Rollbar
+ */
+
+.logo[data-logo="Rollbar"] {
+  width: 3.804344905em;
+  /* (849.32/151.81) * (1-.16-.16) - 0 */
+}
+
+.logo[data-logo="Rollbar"] > * {
+  background-image: url(images/logo.svg);
+  margin: .16em 0;
+}
+
+.logo[data-logo="Rollbar"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="Rollbar"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
